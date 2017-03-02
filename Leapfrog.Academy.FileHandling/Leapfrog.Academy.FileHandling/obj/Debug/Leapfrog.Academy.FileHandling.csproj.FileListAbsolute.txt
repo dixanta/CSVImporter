@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Leapfrog.Academy.FileHandling\Leapfrog.Academy.FileHandling\bin\Debug\Leapfrog.Academy.FileHandling.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Leapfrog.Academy.FileHandling\Leapfrog.Academy.FileHandling\bin\Debug\Leapfrog.Academy.FileHandling.exe
+c:\users\user\documents\visual studio 2015\Projects\Leapfrog.Academy.FileHandling\Leapfrog.Academy.FileHandling\bin\Debug\Leapfrog.Academy.FileHandling.pdb
+c:\users\user\documents\visual studio 2015\Projects\Leapfrog.Academy.FileHandling\Leapfrog.Academy.FileHandling\obj\Debug\Leapfrog.Academy.FileHandling.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Leapfrog.Academy.FileHandling\Leapfrog.Academy.FileHandling\obj\Debug\Leapfrog.Academy.FileHandling.exe
+c:\users\user\documents\visual studio 2015\Projects\Leapfrog.Academy.FileHandling\Leapfrog.Academy.FileHandling\obj\Debug\Leapfrog.Academy.FileHandling.pdb
